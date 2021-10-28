@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>WalkMe Button 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Plan:-Projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WalkMe-Button-2" transform="translate(0.000000, -3.000000)">
+            <g id="WalkMe-Button">
+                <circle id="Oval" fill="#3B91DF" cx="10.2960003" cy="13.2960003" r="10.2960003"></circle>
+                <text id="?" font-family="Roboto-Regular, Roboto" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="6" y="20">?</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
